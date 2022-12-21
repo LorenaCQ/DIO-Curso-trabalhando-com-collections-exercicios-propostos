@@ -20,7 +20,7 @@ public class ExercicioProposto01 {
         //Adiciona as temperaturas na Lista
         adicionarTemperaturas();
 
-        //Imprime todas as temperaturas:
+        //Imprime todas as temperaturas
         imprimeTemperaturas();
 
         //Cálculo da média
@@ -29,8 +29,7 @@ public class ExercicioProposto01 {
         //Imprime as médias
         imprimeMedia();
 
-
-        //exibindo o mês das temperaturas acima da média por extenso:
+        //Meses com temperaturas acima da média
         temperaturasAcimaDaMedia();
     }
 
@@ -47,7 +46,7 @@ public class ExercicioProposto01 {
     }
 
     public static void imprimeTemperaturas(){
-        System.out.print("Todas as temperaturas: ");
+        System.out.print("Temperaturas: ");
         System.out.print(temperaturas);
     }
 
