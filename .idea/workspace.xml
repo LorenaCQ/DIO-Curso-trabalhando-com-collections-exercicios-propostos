@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f29e0fe-d8ac-43c3-8327-527d10191c9f" name="Changes" comment="alteração (comentário)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/Set/ExercicioProposto01.java" afterDir="false" />
+    <list default="true" id="6f29e0fe-d8ac-43c3-8327-527d10191c9f" name="Changes" comment="add ExercicioProposto01 Set">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/Set/ExercicioProposto02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +50,22 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Collections.Set.ExercicioProposto01">
+  <component name="RunManager" selected="Application.Collections.Set.ExercicioProposto02">
     <configuration name="Collections.Set.ExercicioProposto01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.Set.ExercicioProposto01" />
+      <module name="DIO-CursoTrabalhandoComCollectionsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collections.Set.ExercicioProposto02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Set.ExercicioProposto02" />
       <module name="DIO-CursoTrabalhandoComCollectionsJava" />
       <extension name="coverage">
         <pattern>
@@ -93,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collections.Set.ExercicioProposto02" />
         <item itemvalue="Application.Collections.Set.ExercicioProposto01" />
         <item itemvalue="Application.ExercicioProposto02" />
         <item itemvalue="Application.ExercicioProposto01" />
@@ -122,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671653895509</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add ExercicioProposto01 Set">
+      <created>1671734266328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671734266329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Exercicio 01" />
     <MESSAGE value="alteração (comentário)" />
-    <option name="LAST_COMMIT_MESSAGE" value="alteração (comentário)" />
+    <MESSAGE value="add ExercicioProposto01 Set" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ExercicioProposto01 Set" />
   </component>
 </project>
